@@ -1,3 +1,5 @@
+# Edited by Israel Oropeza
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
